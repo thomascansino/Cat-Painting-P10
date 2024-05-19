@@ -1,1 +1,1 @@
-# Cat-Painting-P10
+# Cat-Painting-10th Project
